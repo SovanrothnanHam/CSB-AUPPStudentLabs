@@ -3,7 +3,7 @@
 Create an application for a school system using Python to open and process files of different formats, transfer data, fetch information from school webpages, analyze content, and generate summaries for the school principal about students' assessment activities.
 
 *School Assessment Data Analysis Application Objective:*
-The school administration wants to streamline the process of collecting, analyzing, and summarizing assessment data for the principal. The application should be able to handle various file formats, extract information from webpages, and provide insightful summaries for better decision-making.
+The school administration wants to streamline the process of collecting, analyzing, and summarizing assessment data for the principal. The application should be able to handle various file formats, extract information from webpages, and provide insightful summaries for better decision-making. Implement Exception Handling techniques for controling database accessiblity and connection.
 
 System Features:
 1. File Processing: Accepts files in different formats such as CSV, Excel, and plain text. Opens and reads the content of the files.
